@@ -1,0 +1,7 @@
+C:\Users\Eneida Lame\Desktop\Project\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\Eneida Lame\Desktop\Project\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\Eneida Lame\Desktop\Project\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\Eneida Lame\Desktop\Project\DiceGame\obj\Debug\DiceGame.csprojAssemblyReference.cache
+C:\Users\Eneida Lame\Desktop\Project\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\Eneida Lame\Desktop\Project\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\Eneida Lame\Desktop\Project\DiceGame\obj\Debug\DiceGame.pdb
